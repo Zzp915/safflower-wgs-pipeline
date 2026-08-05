@@ -1,1 +1,151 @@
-IyEvdXNyL2Jpbi9wZXJsIC13CiN1c2Ugc3RyaWN0Owp1c2UgUGVybElPOjpnemlwOwp1c2UgR2V0b3B0OjpMb25nOwoKIy8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiMgICAgPiBGaWxlIE5hbWU6IG1pc19maWx0ZXJfdmNmX1Y0LnBsCiMgICAgPiBBdXRob3I6IGxpdWJlaQojICAgID4gTWFpbDogbGl1YmVpQG5vdm9nZW5lLmNvbSAKIyAgICA+IENyZWF0ZWQgVGltZTogMjAxNeW5tDA45pyIMTnml6Ug5pif5pyf5LiJIDE15pe2NTDliIY1M+enkgojIDIwMjIwNDEyIOS/ruaUueS6hmRvdWJsZeWIpOaWreaWueW8j++8jOWPr+S7peeUqOS6jmluZGVs5LqG44CCIOS5n+iuuOWvuVNOUOayoeW9seWTje+8jOaIkeayoea1i+ivle+8jOWPquiusOW9le+8jOaaguS4jeabv+aNogojICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8KbXkgKCR2Y2YsJG91dHBhdGgsJGdxYSwkb3V0dmNmLCRvdXRnZW5lLCRuYW1lLCRkcG1pbiwkZHBtYXgsJERQbWluMSwkRFBtYXgxLCRncXMsJG1pc3MsJG1hZiwkcG9wLCRkcCwkZ3EpOwpHZXRPcHRpb25zKAogICAgInZjZj1zIj0+XCR2Y2YsCiAgICAib3V0PXMiPT5cJG91dHBhdGgsCgkiZ3FfYWxsPXMiPT5cJGdxYSwKCSJkcF9taW4xPXMiPT5cJGRwbWluLAoJImRwX21heDE9cyI9PlwkZHBtYXgsCgkiRFBfbWluPXMiPT5cJERQbWluMSwKCSJEUF9tYXg9cyI9PlwkRFBtYXgxLAoJImdxX3NpbmdsZT1zIj0+XCRncXMsCgkibWlzcz1zIj0+XCRtaXNzLAoJIm1hZj1zIj0+XCRtYWYsCgkibnVtPXMiPT5cJHBvcCwKCSJkcF9wb3M9cyI9PlwkZHAsCgkiZ3FfcG9zPXMiPT5cJGdxLAoJIm5hbWU9cyI9PlwkbmFtZSwKKTsKaWYgKCR2Y2Y9fi9neiQvKXsKCSNvcGVuIElOICwiPDpnemlwIiwkdmNmIG9yIGRpZSAiY2FuIG5vdCBvcGVuICR2Y2YsJCEuXG4iOwoJb3BlbihJTiwiZ3VuemlwIC1jICR2Y2Z8Iikgb3IgZGllICJjYW4ndCBvcGVuISI7Cn1lbHNlewoJb3BlbiBJTiwnPCcsJHZjZiBvciBkaWUgImNhbiBub3Qgb3BlbiAkdmNmLCQhLlxuIjsKfQpvcGVuIFZDRiwnPjpnemlwJywiJG91dHBhdGgvJG5hbWVcLnZjZlwuZ3oiIHx8IGRpZSAiY2FuIG5vdCBvcGVuICQhLlxuIjsKb3BlbiBWQ0YxLCc+Omd6aXAnLCIkb3V0cGF0aC8kbmFtZVwudmNmXC5hbGxcLmd6IiB8fCBkaWUgImNhbiBub3Qgb3BlbiAkIS5cbiI7Cm9wZW4gR0VOTywnPjpnemlwJywiJG91dHBhdGgvJG5hbWVcLmdlbm9cLmd6IiB8fCBkaWUgImNhbiBub3Qgb3BlbiAkIS5cbiI7Cm9wZW4gR0VOTzEsJz46Z3ppcCcsIiRvdXRwYXRoLyRuYW1lXC5nZW5vXC5nYXBpdC5neiIgfHwgZGllICJjYW4gbm90IG9wZW4gJCEuXG4iOwpvcGVuIFRYVCwiPiRvdXRwYXRoLyRuYW1lLnhscyIgfHwgZGllICJjYW4gbm90IG9wZW4gJCEuXG4iOwpvcGVuIEdFTk8yLCc+Omd6aXAnLCIkb3V0cGF0aC8kbmFtZVwuZ2Vub1wubWFmXC5neiIgfHwgZGllICJjYW4gbm90IG9wZW4gJCEuXG4iOwojI3NhdmUgc2FtcGxlIG5hbWUjIwp3aGlsZSAobXkgJGxpbmUgPSA8SU4+KXsKCWNob21wICRsaW5lOyRsaW5lPX5zL1x0MFx8MVw6L1x0MFwvMVw6L2c7JGxpbmU9fnMvXHQxXHwwXDovXHQwXC8xXDovZzskbGluZT1+cy9cdDBcfDBcOi9cdDBcLzBcOi9nOyRsaW5lPX5zL1x0MVx8MVw6L1x0MVwvMVw6L2c7CglpZiAoJGxpbmU9fi9eIyMvKXsKCSAgICBwcmludCBWQ0YgIiRsaW5lXG4iOwoJCXByaW50IFZDRjEgIiRsaW5lXG4iOwoJfQoJZWxzaWYoJGxpbmU9fi9eI0MvKXsKCQlteSBAc2VxPXNwbGl0L1xzKy8sJGxpbmU7CgkJbXkgQHNlcD0oc3BsaXQoL1x0LywkbGluZSkpWzkuLiRwb3ArOF07CgkJbXkgJHN1bTE9QHNlcDsKIwkJZm9yZWFjaCBteSAkanMoMC4uJHN1bTEpeyAgICAgICAgICAgICAgICAgIyMj5Y676Zmk5oql6ZSZIGJ5IHlvdXFpbmcKIwkJCW15IEBzcz1zcGxpdCAvXC8vLCRzZXBbJGpzXTsKIwkJCW15ICRzdW0zPUBzczsKIwkJCW15IEBzaT1zcGxpdCAvXC4vLCRzc1skc3VtMyAtIDFdOwojCQkJJHNlcFskanNdPSRzaVswXTsKIwkJfQoJCW15ICRzZT1qb2luICJcdCIsQHNlcDsKCQlwcmludCBHRU5PICIkc2VxWzBdXHQkc2VxWzFdXHQkc2VxWzNdXHQkc2VcbiI7CgkJcHJpbnQgR0VOTzEgIiRzZXFbMF1cdCRzZXFbMV1cdCRzZXFbM11cdCRzZXFbNF1cdCRzZVxuIjsKCQlwcmludCBHRU5PMiAiJHNlcVswXVx0JHNlcVsxXVx0JHNlcVszXVx0JHNlcVs0XVx0bWFmXHQkc2VcbiI7CgkJcHJpbnQgVkNGICIkc2VxWzBdXHQkc2VxWzFdXHQkc2VxWzJdXHQkc2VxWzNdXHQkc2VxWzRdXHQkc2VxWzVdXHQkc2VxWzZdXHQkc2VxWzddXHQkc2VxWzhdXHQkc2VcbiI7CgkJcHJpbnQgVkNGMSAiJHNlcVswXVx0JHNlcVsxXVx0JHNlcVsyXVx0JHNlcVszXVx0JHNlcVs0XVx0JHNlcVs1XVx0JHNlcVs2XVx0JHNlcVs3XVx0JHNlcVs4XVx0JHNlXG4iOwoJCWxhc3Q7Cgl9Cn0KbXkgQHNlcTE7bXkgQHNlcTI7bXkgQHNlcDM7bXkgJGk9MDtteSAkaj0wO215ICRtaz0wO215ICRtazA9MDtteSAkbWsxPTA7bXkgJHN1bTE9MDtteSAkdG90YWw9MDtteSAkc3VtPTA7bXkgJGkxO215ICRpMjtteSAkaTM7bXkgJHN1bTI7bXkgJG1pc3MwMT0wO215ICRtaXNzMDI9MDtteSAkbWlzczAzPTA7bXkgJG1pc3MwND0wO215ICRtaXNzMDU9MDtteSAkZG91YmxlPTA7bXkgJHN1bWdxYT0wOwp3aGlsZSAobXkgJGxpbmUgPSA8SU4+KXsKCWNob21wICRsaW5lOyRsaW5lPX5zL1x0MFx8MVw6L1x0MFwvMVw6L2c7JGxpbmU9fnMvXHQxXHwwXDovXHQwXC8xXDovZzskbGluZT1+cy9cdDBcfDBcOi9cdDBcLzBcOi9nOyRsaW5lPX5zL1x0MVx8MVw6L1x0MVwvMVw6L2c7CgkkbWswPTA7CSRtazE9MDsJJGo9MDskdG90YWwrKzsKCW15IEBzZXAyPShzcGxpdCgvXHQvLCRsaW5lKSlbMC4uOF07CglteSBAc2VwMz0oc3BsaXQgKC9EUFw9Lywkc2VwMls3XSkpOwoJbXkgQHNlcDQ9KHNwbGl0ICgvXDsvLCRzZXAzWzFdKSk7CglteSBAYWx0X2xpc3Q9KHNwbGl0ICgvLC8sJHNlcDJbNF0pKTsKIyNmaWx0ZXIgbXVsdGlwbGUgYWxsZWxlcyAmJiBsb3cgcXVhbGl0eSAmJiB0b3RhbCBkZXB0aCMjCQoJI2lmICgobGVuZ3RoICgkc2VwMls0XSk+IDEpIHx8ICgkc2VwMls1XTwkZ3FhKSB8fCAkc2VwNFswXT4kRFBtYXgxIHx8ICRzZXA0WzBdPCREUG1pbjEpewoJIwlpZiAobGVuZ3RoICgkc2VwMls0XSk+IDEpeyRkb3VibGUrKzt9CglpZiAoKEBhbHRfbGlzdD4gMSkgfHwgKCRzZXAyWzVdPCRncWEpIHx8ICRzZXA0WzBdPiREUG1heDEgfHwgJHNlcDRbMF08JERQbWluMSl7CgkJaWYgKEBhbHRfbGlzdD4gMSl7JGRvdWJsZSsrO30KCQllbHNpZigkc2VwMls1XTwkZ3FhKXskc3VtZ3FhKys7fQoJCW5leHQ7Cgl9CiMjZmlsdGVyIGluZGl2aWR1YWwgbG93IHF1YWxpdHkgJiZpbmRpdmlkdWFsIGRlcHRoIyMJCgllbHNlIHsKCQkkc3VtMSsrOwoJCW15IEBzZXAxPShzcGxpdCgvXHQvLCRsaW5lKSlbOS4uJHBvcCs4XTsKCQlmb3IgKCRpPTA7JGk8JHBvcDskaSsrKXsKCQkJaWYoJHNlcDFbJGldID1+IC9cLlwvXC4vKSB7ICAgICMjI+ino+WGs21pc3PmoLflk4Hlj6rmnIkuLy7kv6Hmga/ml7bnmoTmiqXplJnpl67popguIGJ5IHlvdXFpbmcKCQkJCSRqKys7CgkJCQkkc2VxMVskaV0gPSAiLi8uIjsKCQkJCSRzZXEyWyRpXSA9ICItLSI7CgkJCQkkc2VxM1skaV0gPSAiTk4iOwoJCQkJbmV4dDsKCQkJfQoJCQlteSBAc2VwNT0oc3BsaXQgL1w6Lywkc2VwMVskaV0pOyRzZXA1WyRkcF0gPSAwIGlmICRzZXA1WyRkcF0gZXEgIlwuIjskc2VwNVskZ3FdID0gMCBpZiAkc2VwNVskZ3FdIGVxICJcLiI7CgkJCWlmICgoJHNlcDVbJGRwXSA+PSAkZHBtaW4pICYmICgkc2VwNVskZHBdIDw9ICRkcG1heCkgJiYgKCRzZXA1WyRncV0gPj0gJGdxcykpewoJCQkJJHNlcTFbJGldPSRzZXAxWyRpXTsKCQkJCWlmICgoKHNwbGl0KC9cOi8sJHNlcDFbJGldKSlbMF0pZXEgIjAvMCIpeyRzZXEzWyRpXT0kc2VxMlskaV09IiRzZXAyWzNdJHNlcDJbM10iOyRtazA9JG1rMCsyO30KCQkJCWVsc2lmICgoKHNwbGl0KC9cOi8sJHNlcDFbJGldKSlbMF0pZXEgIjAvMSIpeyRzZXEzWyRpXT0kc2VxMlskaV09IiRzZXAyWzNdJHNlcDJbNF0iOyRtazArKzskbWsxKys7fQoJCQkJZWxzaWYgKCgoc3BsaXQoL1w6Lywkc2VwMVskaV0pKVswXSllcSAiMS8xIil7JHNlcTNbJGldPSRzZXEyWyRpXT0iJHNlcDJbNF0kc2VwMls0XSI7JG1rMT0kbWsxKzI7fQoJCQkJfQoJCQllbHNlIHsKCQkJCSRqKys7CgkJCQkkc2VxMVskaV09Ii4vLiI7CgkJCQkkc2VxMlskaV09Ii0tIjsKCQkJCSRzZXEzWyRpXT0iTk4iOwoJCQl9CgkJfQojI2ZpbHRlciAgbWlzcyAmJiBtYWYgIyMJCQoJCSRpMT0kai8kcG9wOwoJCWlmKCRpMTw9MC4xKXskbWlzczAxKys7fQoJCWlmKCRpMTw9MC4yKXskbWlzczAyKys7fQoJCWlmKCRpMTw9MC4zKXskbWlzczAzKys7fQoJCWlmKCRpMTw9MC40KXskbWlzczA0Kys7fQoJCWlmKCRpMTw9MC41KXskbWlzczA1Kys7fQoJCWlmICgkaTEgPD0gJG1pc3MpewoJCQkkc3VtMisrOwoJCQlteSAkbWs9JG1rMCskbWsxOwoJCQlpZiAoJG1rMD09MCl7JG1rPTE7fQoJCQkkaTI9JG1rMC8oJG1rKTsKCQkJJGkzPSRtazEvKCRtayk7CgkJCWlmICgkaTI+JGkzKXskaTI9JGkzO30KCQkJaWYoKCRpMiA+PSRtYWYpICYmICgkaTMgPj0gJG1hZikpewoJCQkJJHN1bSsrOwoJCQkJbXkgJGxpbmUxPWpvaW4oIlx0IixAc2VwMikuIlx0Ii5qb2luKCJcdCIsQHNlcTEpOwoJCQkJbXkgJGxpbmUyPSIkc2VwMlswXVx0JHNlcDJbMV1cdCRzZXAyWzNdXHQkc2VwMls0XVx0JGkyXHQiLmpvaW4oIlx0IixAc2VxMik7CgkJCQlteSAkbGluZTM9IiRzZXAyWzBdXHQkc2VwMlsxXVx0JHNlcDJbM11cdCIuam9pbigiXHQiLEBzZXEyKTsKCQkJCW15ICRsaW5lND0iJHNlcDJbMF1cdCRzZXAyWzFdXHQkc2VwMlszXVx0JHNlcDJbNF1cdCIuam9pbigiXHQiLEBzZXEzKTsKCQkJCXByaW50IFZDRiAiJGxpbmUxXG4iOwoJCQkJcHJpbnQgVkNGMSAiJGxpbmVcbiI7CgkJCQlwcmludCBHRU5PICIkbGluZTNcbiI7CgkJCQlwcmludCBHRU5PMiAiJGxpbmUyXG4iOwoJCQkJcHJpbnQgR0VOTzEgIiRsaW5lNFxuIjsKCQkJfQoJCX0KCX0KfQojI3ByaW50IHRhYmxlIyMKbXkgJGRvMj0kdG90YWwgLSAkZG91YmxlOwpteSAkZ3Fzdj0kdG90YWwgLSAkc3VtZ3FhIC0gJGRvdWJsZTsKbXkgJHBvcGZsPSRncXN2IC0gJHN1bTE7Cm15ICRtaXNmbD0kc3VtMSAtICRzdW0yOwpteSAkbWFmZmw9JHN1bTIgLSAkc3VtOwpwcmludCBUWFQgImZpbHRlciBvcHRpb25zOlxuIjsKcHJpbnQgVFhUICJHUS1zaW5nbGVcdCRncXNcbiI7CnByaW50IFRYVCAiRFAtc2luZ2xlXHQkZHBtaW4uLi4kZHBtYXhcbiI7CnByaW50IFRYVCAiR1EtdG90YWxcdCRncWFcbiI7CnByaW50IFRYVCAiRFAtdG90YWxcdCREUG1pbjEuLi4kRFBtYXgxXG4iOwpwcmludCBUWFQgIm1pc3NcdCRtaXNzXG4iOwpwcmludCBUWFQgIm1hZlx0JG1hZlxuXG4iOwoKcHJpbnQgVFhUICJTTlA6XG4iOwpwcmludCBUWFQgIm9wdGlvblx0cmF3X3NucF9udW1cdGRvYmxlX2FsbGVcdEdRXHREUFx0bWlzc1x0bWFmXG4iOwpwcmludCBUWFQgIkRQLXNpbmdsZTokZHBtaW4uLi4kZHBtYXhcdCBcdCBcdCRncWFcdCREUG1pbjEuLi4kRFBtYXgxXHQkbWlzc1x0JG1hZlxuIjsKcHJpbnQgVFhUICJzYXZlZFx0JHRvdGFsXHQkZG8yXHQkZ3Fzdlx0JHN1bTFcdCRzdW0yXHQkc3VtXG4iOwpwcmludCBUWFQgImZpbHRlcmVkXHQwXHQkZG91YmxlXHQkc3VtZ3FhXHQkcG9wZmxcdCRtaXNmbFx0JG1hZmZsXG5cbiI7CnByaW50IFRYVCAib3RoZXNfbWlzc19yYXRlXHRtaXMwLjFcdG1pczAuMlx0bWlzMC4zXHRtaXMwLjRcdG1pczAuNVxuIjsKcHJpbnQgVFhUICJwb3BfbWlzc19zYXZlZFx0JG1pc3MwMVx0JG1pc3MwMlx0JG1pc3MwM1x0JG1pc3MwNFx0JG1pc3MwNVxuIjsKY2xvc2UgSU47CmNsb3NlIFZDRjsKY2xvc2UgR0VOTzsKY2xvc2UgVFhUOwo=
+#!/usr/bin/perl -w
+#use strict;
+use PerlIO::gzip;
+use Getopt::Long;
+
+
+my ($vcf,$outpath,$gqa,$outvcf,$outgene,$name,$dpmin,$dpmax,$DPmin1,$DPmax1,$gqs,$miss,$maf,$pop,$dp,$gq);
+GetOptions(
+    "vcf=s"=>\$vcf,
+    "out=s"=>\$outpath,
+	"gq_all=s"=>\$gqa,
+	"dp_min1=s"=>\$dpmin,
+	"dp_max1=s"=>\$dpmax,
+	"DP_min=s"=>\$DPmin1,
+	"DP_max=s"=>\$DPmax1,
+	"gq_single=s"=>\$gqs,
+	"miss=s"=>\$miss,
+	"maf=s"=>\$maf,
+	"num=s"=>\$pop,
+	"dp_pos=s"=>\$dp,
+	"gq_pos=s"=>\$gq,
+	"name=s"=>\$name,
+);
+if ($vcf=~/gz$/){
+	#open IN ,"<:gzip",$vcf or die "can not open $vcf,$!.\n";
+	open(IN,"gunzip -c $vcf|") or die "can't open!";
+}else{
+	open IN,'<',$vcf or die "can not open $vcf,$!.\n";
+}
+open VCF,'>:gzip',"$outpath/$name\.vcf\.gz" || die "can not open $!.\n";
+open VCF1,'>:gzip',"$outpath/$name\.vcf\.all\.gz" || die "can not open $!.\n";
+open GENO,'>:gzip',"$outpath/$name\.geno\.gz" || die "can not open $!.\n";
+open GENO1,'>:gzip',"$outpath/$name\.geno\.gapit.gz" || die "can not open $!.\n";
+open TXT,">$outpath/$name.xls" || die "can not open $!.\n";
+open GENO2,'>:gzip',"$outpath/$name\.geno\.maf\.gz" || die "can not open $!.\n";
+##save sample name##
+while (my $line = <IN>){
+	chomp $line;$line=~s/\t0\|1\:/\t0\/1\:/g;$line=~s/\t1\|0\:/\t0\/1\:/g;$line=~s/\t0\|0\:/\t0\/0\:/g;$line=~s/\t1\|1\:/\t1\/1\:/g;
+	if ($line=~/^##/){
+	    print VCF "$line\n";
+		print VCF1 "$line\n";
+	}
+	elsif($line=~/^#C/){
+		my @seq=split/\s+/,$line;
+		my @sep=(split(/\t/,$line))[9..$pop+8];
+		my $sum1=@sep;
+		my $se=join "\t",@sep;
+		print GENO "$seq[0]\t$seq[1]\t$seq[3]\t$se\n";
+		print GENO1 "$seq[0]\t$seq[1]\t$seq[3]\t$seq[4]\t$se\n";
+		print GENO2 "$seq[0]\t$seq[1]\t$seq[3]\t$seq[4]\tmaf\t$se\n";
+		print VCF "$seq[0]\t$seq[1]\t$seq[2]\t$seq[3]\t$seq[4]\t$seq[5]\t$seq[6]\t$seq[7]\t$seq[8]\t$se\n";
+		print VCF1 "$seq[0]\t$seq[1]\t$seq[2]\t$seq[3]\t$seq[4]\t$seq[5]\t$seq[6]\t$seq[7]\t$seq[8]\t$se\n";
+		last;
+	}
+}
+my @seq1;my @seq2;my @sep3;my $i=0;my $j=0;my $mk=0;my $mk0=0;my $mk1=0;my $sum1=0;my $total=0;my $sum=0;my $i1;my $i2;my $i3;my $sum2;my $miss01=0;my $miss02=0;my $miss03=0;my $miss04=0;my $miss05=0;my $double=0;my $sumgqa=0;
+while (my $line = <IN>){
+	chomp $line;$line=~s/\t0\|1\:/\t0\/1\:/g;$line=~s/\t1\|0\:/\t0\/1\:/g;$line=~s/\t0\|0\:/\t0\/0\:/g;$line=~s/\t1\|1\:/\t1\/1\:/g;
+	$mk0=0;	$mk1=0;	$j=0;$total++;
+	my @sep2=(split(/\t/,$line))[0..8];
+	my @sep3=(split (/DP\=/,$sep2[7]));
+	my @sep4=(split (/\;/,$sep3[1]));
+	my @alt_list=(split (/,/,$sep2[4]));
+##filter multiple alleles && low quality && total depth##	
+	#if ((length ($sep2[4])> 1) || ($sep2[5]<$gqa) || $sep4[0]>$DPmax1 || $sep4[0]<$DPmin1){
+	#	if (length ($sep2[4])> 1){$double++;}
+	if ((@alt_list> 1) || ($sep2[5]<$gqa) || $sep4[0]>$DPmax1 || $sep4[0]<$DPmin1){
+		if (@alt_list> 1){$double++;}
+		elsif($sep2[5]<$gqa){$sumgqa++;}
+		next;
+	}
+##filter individual low quality &&individual depth##	
+	else {
+		$sum1++;
+		my @sep1=(split(/\t/,$line))[9..$pop+8];
+		for ($i=0;$i<$pop;$i++){
+			if($sep1[$i] =~ /\.\/\./) {    ###解决miss样品只有./.信息时的报错问题. by youqing
+				$j++;
+				$seq1[$i] = "./.";
+				$seq2[$i] = "--";
+				$seq3[$i] = "NN";
+				next;
+			}
+			my @sep5=(split /\:/,$sep1[$i]);$sep5[$dp] = 0 if $sep5[$dp] eq "\.";$sep5[$gq] = 0 if $sep5[$gq] eq "\.";
+			if (($sep5[$dp] >= $dpmin) && ($sep5[$dp] <= $dpmax) && ($sep5[$gq] >= $gqs)){
+				$seq1[$i]=$sep1[$i];
+				if (((split(/\:/,$sep1[$i]))[0])eq "0/0"){$seq3[$i]=$seq2[$i]="$sep2[3]$sep2[3]";$mk0=$mk0+2;}
+				elsif (((split(/\:/,$sep1[$i]))[0])eq "0/1"){$seq3[$i]=$seq2[$i]="$sep2[3]$sep2[4]";$mk0++;$mk1++;}
+				elsif (((split(/\:/,$sep1[$i]))[0])eq "1/1"){$seq3[$i]=$seq2[$i]="$sep2[4]$sep2[4]";$mk1=$mk1+2;}
+				}
+			else {
+				$j++;
+				$seq1[$i]="./.";
+				$seq2[$i]="--";
+				$seq3[$i]="NN";
+			}
+		}
+##filter  miss && maf ##		
+		$i1=$j/$pop;
+		if($i1<=0.1){$miss01++;}
+		if($i1<=0.2){$miss02++;}
+		if($i1<=0.3){$miss03++;}
+		if($i1<=0.4){$miss04++;}
+		if($i1<=0.5){$miss05++;}
+		if ($i1 <= $miss){
+			$sum2++;
+			my $mk=$mk0+$mk1;
+			if ($mk0==0){$mk=1;}
+			$i2=$mk0/($mk);
+			$i3=$mk1/($mk);
+			if ($i2>$i3){$i2=$i3;}
+			if(($i2 >=$maf) && ($i3 >= $maf)){
+				$sum++;
+				my $line1=join("\t",@sep2)."\t".join("\t",@seq1);
+				my $line2="$sep2[0]\t$sep2[1]\t$sep2[3]\t$sep2[4]\t$i2\t".join("\t",@seq2);
+				my $line3="$sep2[0]\t$sep2[1]\t$sep2[3]\t".join("\t",@seq2);
+				my $line4="$sep2[0]\t$sep2[1]\t$sep2[3]\t$sep2[4]\t".join("\t",@seq3);
+				print VCF "$line1\n";
+				print VCF1 "$line\n";
+				print GENO "$line3\n";
+				print GENO2 "$line2\n";
+				print GENO1 "$line4\n";
+			}
+		}
+	}
+}
+##print table##
+my $do2=$total - $double;
+my $gqsv=$total - $sumgqa - $double;
+my $popfl=$gqsv - $sum1;
+my $misfl=$sum1 - $sum2;
+my $maffl=$sum2 - $sum;
+print TXT "filter options:\n";
+print TXT "GQ-single\t$gqs\n";
+print TXT "DP-single\t$dpmin...$dpmax\n";
+print TXT "GQ-total\t$gqa\n";
+print TXT "DP-total\t$DPmin1...$DPmax1\n";
+print TXT "miss\t$miss\n";
+print TXT "maf\t$maf\n\n";
+
+print TXT "SNP:\n";
+print TXT "option\traw_snp_num\tdoble_alle\tGQ\tDP\tmiss\tmaf\n";
+print TXT "DP-single:$dpmin...$dpmax\t \t \t$gqa\t$DPmin1...$DPmax1\t$miss\t$maf\n";
+print TXT "saved\t$total\t$do2\t$gqsv\t$sum1\t$sum2\t$sum\n";
+print TXT "filtered\t0\t$double\t$sumgqa\t$popfl\t$misfl\t$maffl\n\n";
+print TXT "othes_miss_rate\tmis0.1\tmis0.2\tmis0.3\tmis0.4\tmis0.5\n";
+print TXT "pop_miss_saved\t$miss01\t$miss02\t$miss03\t$miss04\t$miss05\n";
+close IN;
+close VCF;
+close GENO;
+close TXT;
