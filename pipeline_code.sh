@@ -1,1 +1,66 @@
-Q29kZSBhdmFpbGFiaWxpdHkKQWxsIGFuYWx5c2lzIHN0ZXBzIHdlcmUgcGVyZm9ybWVkIG9uIGEgTGludXggc3lzdGVtLCB1c2luZyBSIHZlcnNpb24gNC4zLjEgYW5kIFB5dGhvbiB2ZXJzaW9uIDMuMTIuOS4gVGhlIGNvZGVzIGFuZCBzb2Z0d2FyZSBwYXJhbWV0ZXJzIHVzZWQgaW4gdGhlIHBpcGVsaW5lIGFyZSBhcyBmb2xsb3dzOgooMSlQb3N0LVNlcXVlbmNpbmcgRGF0YSBRdWFsaXR5IENvbnRyb2wKZmFzdHAgVmVyc2lvbjogMC4yMy40ClVzYWdlOgpmYXN0cCBcCiAgICAgICAgLWkgJHtmcTF9IC1JICR7ZnEyfSBcCiAgICAgICAgLW8gJHtzYW1wbGVfaWR9X2NsZWFuXzEuZnEuZ3ogLU8gJHtzYW1wbGVfaWR9X2NsZWFuXzIuZnEuZ3ogXAogICAgICAgIC0tY3V0X3RhaWwgLS1jdXRfdGFpbF93aW5kb3dfc2l6ZSAxIFwKICAgICAgICAtLWN1dF90YWlsX21lYW5fcXVhbGl0eSAyMCAtLWF2ZXJhZ2VfcXVhbCAyMCBcCiAgICAgICAgLS1sZW5ndGhfcmVxdWlyZWQgNTAgLS10aHJlYWQgNCBcCigyKU1hcHBpbmcKQndhIFZlcnNpb246IDAuNy4xOC1yMTI0My1kaXJ0eQpTYW1ibGFzdGVyIFZlcnNpb246IDAuMS4yNgpTYW10b29scyBWZXJzaW9uOjEuMTcKVXNhZ2U6CiAgICAgICAgYndhIG1lbSAtayAxOCAtVCAyNSAtdCA4IC1NIHJlZl9nZW5vbWUuZmEgXAogICAgICAgICR7c2FtcGxlX2lkfV9jbGVhbl8xLmZxLmd6ICR7c2FtcGxlX2lkfV9jbGVhbl8yLmZxLmd6IFwKICAgICAgICB8IHNhbWJsYXN0ZXIgLU0gXAogICAgICAgIHwgc2FtdG9vbHMgc29ydCBcCiAgICAgICAgLU8gYmFtIC1UICAke3NhbXBsZV9pZH1fdGVtcCAtQCA0ID4gJHtzYW1wbGVfaWR9LmJhbSAmJiBcCiAgICAgICAgc2FtdG9vbHMgaW5kZXggJHtzYW1wbGVfaWR9LmJhbQooMylWYXJpYW50IERldGVjdGlvbgpHYXRrIFZlcnNpb246Z2F0ay00LjUuMC4wClVzYWdlOgpnYXRrIC0tamF2YS1vcHRpb25zICItWG14MTVHIiBIYXBsb3R5cGVDYWxsZXIgLVIgJGZhIC1FUkMgR1ZDRiAtSSAke3NhbXBsZV9pZH0uc29ydGVkLnJtZHVwLmJhbSAtTyAke3NhbXBsZV9pZH0uc29ydGVkLnJtZHVwLmJhbS5ndmNmLmd6IC0tdG1wLWRpciB0bXAgLS1uYXRpdmUtcGFpci1obW0tdGhyZWFkcyA2CmdhdGsgLS1qYXZhLW9wdGlvbnMgIi1YbXgxNUciIEdlbm9taWNzREJJbXBvcnQgXAogICAgICAgIC1SICRmYSAtLXZhcmlhbnQgJHtzYW1wbGUxfS5nLnZjZi5neiAtLXZhcmlhbnQgJHtzYW1wbGUyfS5nLnZjZi5neiBcCiAgICAgICAgLS1nZW5vbWljc2RiLXdvcmtzcGFjZS1wYXRoIGdlbm9taWNzZGIgLS10bXAtZGlyIHRtcCAtLW1lcmdlLWlucHV0LWludGVydmFscyB0cnVlCmdhdGsgLS1qYXZhLW9wdGlvbnMgIi1YbXgxNUciIEdlbm90eXBlR1ZDRnMgXAogICAgICAgIC1SICRmYSAtViBnZW5kYjovL2dlbm9taWNzZGIgLU8gY29ob3J0LnJhdy52Y2YuZ3ogLS10bXAtZGlyIHRtcApnYXRrIFNlbGVjdFZhcmlhbnRzIC1SICRmYSAtViBjb2hvcnQucmF3LnZjZi5neiAtLXNlbGVjdC10eXBlLXRvLWluY2x1ZGUgU05QIC1PIGNvaG9ydC5yYXcuc25wLnZjZi5negpnYXRrIFNlbGVjdFZhcmlhbnRzIC1SICRmYSAtViBjb2hvcnQucmF3LnZjZi5neiAtLXNlbGVjdC10eXBlLXRvLWluY2x1ZGUgSU5ERUwgLU8gY29ob3J0LnJhdy5pbmRlbC52Y2YuZ3oKZ2F0ayBWYXJpYW50RmlsdHJhdGlvbiAtUiAkZmEgLVYgY29ob3J0LnJhdy5zbnAudmNmLmd6IFwKICAgICAgICAtLWZpbHRlci1leHByZXNzaW9uICJRRCA8IDIuMCIgLS1maWx0ZXItbmFtZSAiUUQyIiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiRlMgPiA2MC4wIiAtLWZpbHRlci1uYW1lICJGUzYwIiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiTVEgPCA0MC4wIiAtLWZpbHRlci1uYW1lICJNUTQwIiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiTVFSYW5rU3VtIDwgLTEyLjUiIC0tZmlsdGVyLW5hbWUgIk1RUmFua1N1bS0xMi41IiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiUmVhZFBvc1JhbmtTdW0gPCAtOC4wIiAtLWZpbHRlci1uYW1lICJSZWFkUG9zUmFua1N1bS04IiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiU09SID4gMy4wIiAtLWZpbHRlci1uYW1lICJTT1IzIiBcCiAgICAgICAgLU8gaGFyZGZpbHRlZC5zbnAudmNmLmd6CmdhdGsgVmFyaWFudEZpbHRyYXRpb24gLVIgJGZhIC1WIGNvaG9ydC5yYXcuaW5kZWwudmNmLmd6IFwKICAgICAgICAtLWZpbHRlci1leHByZXNzaW9uICJRRCA8IDIuMCIgLS1maWx0ZXItbmFtZSAiUUQyIiBcCiAgICAgICAgLS1maWx0ZXItZXhwcmVzc2lvbiAiRlMgPiAyMDAuMCIgLS1maWx0ZXItbmFtZSAiRlMyMDAiIFwKICAgICAgICAtLWZpbHRlci1leHByZXNzaW9uICJSZWFkUG9zUmFua1N1bSA8IC0yMC4wIiAtLWZpbHRlci1uYW1lICJSZWFkUG9zUmFua1N1bS0yMCIgXAogICAgICAgIC0tZmlsdGVyLWV4cHJlc3Npb24gIlNPUiA+IDEwLjAiIC0tZmlsdGVyLW5hbWUgIlNPUjEwIiBcCiAgICAgICAgLU8gaGFyZGZpbHRlZC5pbmRlbC52Y2YuZ3oKYmNmdG9vbHMgdmlldyAtZiBQQVNTIGhhcmRmaWx0ZWQuc25wLnZjZi5neiB8IGJnemlwID4gaGFyZGZpbHRlZC5zbnAucGFzcy52Y2YuZ3oKYmNmdG9vbHMgdmlldyAtZiBQQVNTIGhhcmRmaWx0ZWQuaW5kZWwudmNmLmd6IHwgYmd6aXAgPiBoYXJkZmlsdGVkLmluZGVsLnBhc3MudmNmLmd6Cig0KVZhcmlhbnQgRmlsdGVyaW5nClBlcmwgdmVyc2lvbjogdjUuMjYuMgpVc2FnZToKUGVybCBtaXNfZmlsdGVyX3ZjZl9WNy5wbCAtdmNmIGhhcmRmaWx0ZWQuc25wLnBhc3MudmNmLmd6IC1vdXQgLi8gLWdxX2FsbCAyMCAtZHBfbWluMSAzIC1kcF9tYXgxIDk5OTk5OTk5OTk5OTk5OSAtRFBfbWluIDUwIC1EUF9tYXggOTk5OTk5OTk5OTk5OTk5IC1ncV9zaW5nbGUgMCAtbWlzcyAwLjEgLW1hZiAwLjA1IC1udW0gMjQwIC1kcF9wb3MgMiAtZ3FfcG9zIDMgLW5hbWUgc25wLmZpbHRlci1kcDMtbWlzczAuMS1tYWYwLjA1Lm5vZG91YmxlClBlcmwgbWlzX2ZpbHRlcl92Y2ZfVjcucGwgLXZjZiBoYXJkZmlsdGVkLmluZGVsLnBhc3MudmNmLmd6IC1vdXQgLi8gLWdxX2FsbCAyMCAtZHBfbWluMSAzIC1kcF9tYXgxIDk5OTk5OTk5OTk5OTk5OSAtRFBfbWluIDUwIC1EUF9tYXggOTk5OTk5OTk5OTk5OTk5IC1ncV9zaW5nbGUgMCAtbWlzcyAwLjMgLW1hZiAwLjA1IC1udW0gMjQwIC1kcF9wb3MgMiAtZ3FfcG9zIDMgLW5hbWUgaW5kZWwuZmlsdGVyLWRwMy1taXNzMC4zLW1hZjAuMDUubm9kb3VibGUKKDUpVmFyaWFudCBBbm5vdGF0aW9uCkFOTk9WQVIgVmVyc2lvbjogMjAyMC0wNi0wNwpVc2FnZToKZ3ppcCAtZGMgc25wLmZpbHRlci1kcDMtbWlzczAuMS1tYWYwLjA1Lm5vZG91YmxlLnZjZi5neiA+IG91dC5maWx0ZWQuc25wLnZjZgpjb252ZXJ0MmFubm92YXIucGwgLWZvcm1hdCB2Y2Y0IC1zbnBxdWFsIDAgb3V0LmZpbHRlZC5zbnAudmNmID4gb3V0LnNucC5hdmlucHV0CmFubm90YXRlX3ZhcmlhdGlvbi5wbCAtYnVpbGR2ZXIgb3V0IC1nZW5lYW5ubyBvdXQuc25wLmF2aW5wdXQgJHthbm5vTElCUkFSWX0Kc3RhdFNOUEFubm8ucGwgb3V0LnNucC5hdmlucHV0LnZhcmlhbnRfZnVuY3Rpb24gb3V0LnNucC5hdmlucHV0LmV4b25pY192YXJpYW50X2Z1bmN0aW9uIG91dC5maWx0ZWQuc25wLnZjZiBvdXQuU05QX0Fubm90YXRpb25fU3RhdGlzdGljcy54bHMKCmd6aXAgLWRjIGluZGVsLmZpbHRlci1kcDMtbWlzczAuMy1tYWYwLjA1Lm5vZG91YmxlLnZjZi5neiA+IG91dC5maWx0ZWQuaW5kZWwudmNmCmNvbnZlcnQyYW5ub3Zhci5wbCAtZm9ybWF0IHZjZjQgLXNucHF1YWwgMCBvdXQuZmlsdGVkLmluZGVsLnZjZiA+IG91dC5pbmRlbC5hdmlucHV0CmFubm90YXRlX3ZhcmlhdGlvbi5wbCAtYnVpbGR2ZXIgb3V0IC1nZW5lYW5ubyBvdXQuaW5kZWwuYXZpbnB1dCAke2Fubm9MSUJSQVJZfQpzdGF0aW5kZWxBbm5vLnBsIC1vdXREaXIgJHtwcm9qX2Rpcn0vYW5uby9JTkRFTF9hbm5vIC1wcm9qRGlyICR7cHJval9kaXJ9L2Fubm8vSU5ERUxfYW5ubyAtZ3NpemUgMzczMTMxMTM2Cg==
+Code availability
+All analysis steps were performed on a Linux system, using R version 4.3.1 and Python version 3.12.9. The codes and software parameters used in the pipeline are as follows:
+(1)Post-Sequencing Data Quality Control
+fastp Version: 0.23.4
+Usage:
+fastp \
+        -i ${fq1} -I ${fq2} \
+        -o ${sample_id}_clean_1.fq.gz -O ${sample_id}_clean_2.fq.gz \
+        --cut_tail --cut_tail_window_size 1 \
+        --cut_tail_mean_quality 20 --average_qual 20 \
+        --length_required 50 --thread 4 \
+(2)Mapping
+Bwa Version: 0.7.18-r1243-dirty
+Samblaster Version: 0.1.26
+Samtools Version:1.17
+Usage:
+        bwa mem -k 18 -T 25 -t 8 -M ref_genome.fa \
+        ${sample_id}_clean_1.fq.gz ${sample_id}_clean_2.fq.gz \
+        | samblaster -M \
+        | samtools sort \
+        -O bam -T  ${sample_id}_temp -@ 4 > ${sample_id}.bam && \
+        samtools index ${sample_id}.bam
+(3)Variant Detection
+Gatk Version:gatk-4.5.0.0
+Usage:
+gatk --java-options "-Xmx15G" HaplotypeCaller -R $fa -ERC GVCF -I ${sample_id}.sorted.rmdup.bam -O ${sample_id}.sorted.rmdup.bam.gvcf.gz --tmp-dir tmp --native-pair-hmm-threads 6
+gatk --java-options "-Xmx15G" GenomicsDBImport \
+        -R $fa --variant ${sample1}.g.vcf.gz --variant ${sample2}.g.vcf.gz \
+        --genomicsdb-workspace-path genomicsdb --tmp-dir tmp --merge-input-intervals true
+gatk --java-options "-Xmx15G" GenotypeGVCFs \
+        -R $fa -V gendb://genomicsdb -O cohort.raw.vcf.gz --tmp-dir tmp
+gatk SelectVariants -R $fa -V cohort.raw.vcf.gz --select-type-to-include SNP -O cohort.raw.snp.vcf.gz
+gatk SelectVariants -R $fa -V cohort.raw.vcf.gz --select-type-to-include INDEL -O cohort.raw.indel.vcf.gz
+gatk VariantFiltration -R $fa -V cohort.raw.snp.vcf.gz \
+        --filter-expression "QD < 2.0" --filter-name "QD2" \
+        --filter-expression "FS > 60.0" --filter-name "FS60" \
+        --filter-expression "MQ < 40.0" --filter-name "MQ40" \
+        --filter-expression "MQRankSum < -12.5" --filter-name "MQRankSum-12.5" \
+        --filter-expression "ReadPosRankSum < -8.0" --filter-name "ReadPosRankSum-8" \
+        --filter-expression "SOR > 3.0" --filter-name "SOR3" \
+        -O hardfilted.snp.vcf.gz
+gatk VariantFiltration -R $fa -V cohort.raw.indel.vcf.gz \
+        --filter-expression "QD < 2.0" --filter-name "QD2" \
+        --filter-expression "FS > 200.0" --filter-name "FS200" \
+        --filter-expression "ReadPosRankSum < -20.0" --filter-name "ReadPosRankSum-20" \
+        --filter-expression "SOR > 10.0" --filter-name "SOR10" \
+        -O hardfilted.indel.vcf.gz
+bcftools view -f PASS hardfilted.snp.vcf.gz | bgzip > hardfilted.snp.pass.vcf.gz
+bcftools view -f PASS hardfilted.indel.vcf.gz | bgzip > hardfilted.indel.pass.vcf.gz
+(4)Variant Filtering
+Perl version: v5.26.2
+Usage:
+Perl mis_filter_vcf_V7.pl -vcf hardfilted.snp.pass.vcf.gz -out ./ -gq_all 20 -dp_min1 3 -dp_max1 999999999999999 -DP_min 50 -DP_max 999999999999999 -gq_single 0 -miss 0.1 -maf 0.05 -num 240 -dp_pos 2 -gq_pos 3 -name snp.filter-dp3-miss0.1-maf0.05.nodouble
+Perl mis_filter_vcf_V7.pl -vcf hardfilted.indel.pass.vcf.gz -out ./ -gq_all 20 -dp_min1 3 -dp_max1 999999999999999 -DP_min 50 -DP_max 999999999999999 -gq_single 0 -miss 0.3 -maf 0.05 -num 240 -dp_pos 2 -gq_pos 3 -name indel.filter-dp3-miss0.3-maf0.05.nodouble
+(5)Variant Annotation
+ANNOVAR Version: 2020-06-07
+Usage:
+gzip -dc snp.filter-dp3-miss0.1-maf0.05.nodouble.vcf.gz > out.filted.snp.vcf
+convert2annovar.pl -format vcf4 -snpqual 0 out.filted.snp.vcf > out.snp.avinput
+annotate_variation.pl -buildver out -geneanno out.snp.avinput ${annoLIBRARY}
+statSNPAnno.pl out.snp.avinput.variant_function out.snp.avinput.exonic_variant_function out.filted.snp.vcf out.SNP_Annotation_Statistics.xls
+
+gzip -dc indel.filter-dp3-miss0.3-maf0.05.nodouble.vcf.gz > out.filted.indel.vcf
+convert2annovar.pl -format vcf4 -snpqual 0 out.filted.indel.vcf > out.indel.avinput
+annotate_variation.pl -buildver out -geneanno out.indel.avinput ${annoLIBRARY}
+statindelAnno.pl -outDir ${proj_dir}/anno/INDEL_anno -projDir ${proj_dir}/anno/INDEL_anno -gsize ${genomesize}
